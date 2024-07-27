@@ -1,6 +1,6 @@
 package com.ust.Ust_Projects.controller;
 
-import com.ust.Ust_Projects.common.PersonConstant;
+
 import com.ust.Ust_Projects.model.Person;
 import com.ust.Ust_Projects.repository.Personrepository;
 
